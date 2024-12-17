@@ -17,3 +17,6 @@ Sculpting with Haptic Feedback(Geomagic Touch)
 
 ### System Flow Chart
 ![image](https://github.com/user-attachments/assets/dcf8abc4-0130-447b-80b8-d628a5f75f02)
+
+## Demo
+[![Haptics Demo](https://github.com/user-attachments/assets/a7856df2-aa2b-429a-a426-a389330f3602)](https://www.youtube.com/watch?v=7E04WywpRg4)
