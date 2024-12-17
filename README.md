@@ -15,7 +15,8 @@ Sculpting with Haptic Feedback(Geomagic Touch)
 ## Detail
 ![image](src/Detail.png)
 -  Mesh Deformation
-![image](src/Mesh.png)
+  - Keyboard 'T' 버튼을 누르면 매쉬 만지기 모드/ 변형 모드 로 바꿀 수 있습니다.
+- ![image](src/Mesh.png)
 ### System Flow Chart
 ![image](src/flowChart.png)
 
