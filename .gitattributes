@@ -1,0 +1,4 @@
+Haptics-Sculpting/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Haptics-Sculpting/Library/PackageCache/*.dll filter=lfs diff=lfs merge=lfs -text
+Haptics-Sculpting/Library/PackageCache/*.dylib filter=lfs diff=lfs merge=lfs -text
+Haptics-Sculpting/Library/PackageCache/*.so filter=lfs diff=lfs merge=lfs -text
