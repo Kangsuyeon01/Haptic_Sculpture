@@ -21,7 +21,8 @@ Sculpting with Haptic Feedback(Geomagic Touch)
 ## Demo
 -  Mesh Deformation
   - `Keyboard T` 버튼을 누르면 매쉬 만지기 모드/ 변형 모드 로 바꿀 수 있습니다.
-![image](src/Mesh.png)
+
+  ![image](src/Mesh.png)
   
 - 사진을 누르면 유튜브 동영상 링크로 이동합니다.
 [![Haptics Demo](src/example.png)](https://www.youtube.com/watch?v=7E04WywpRg4)
