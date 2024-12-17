@@ -41,5 +41,5 @@ Sculpting with Haptic Feedback(Geomagic Touch)
 ![image](https://github.com/user-attachments/assets/dcf8abc4-0130-447b-80b8-d628a5f75f02)
 
 ## Demo
-
-<iframe width="956" height="538" src="https://www.youtube.com/watch?v=7E04WywpRg4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+사진을 누르면 유튜브 동영상 링크로 이동합니다.
+[![Haptics Demo](https://github.com/user-attachments/assets/a7856df2-aa2b-429a-a426-a389330f3602)](https://www.youtube.com/watch?v=7E04WywpRg4)
